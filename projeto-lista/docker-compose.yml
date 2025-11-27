@@ -1,0 +1,6 @@
+services:
+  java-lista:
+    build: .
+    container_name: java-lista
+    stdin_open: true
+    tty: true
